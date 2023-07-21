@@ -18,5 +18,5 @@
   $average = $total / 10;
 
   // 平均点をブラウザに出力
-  echo "平均点は{$average}です";
+  echo "平均点は{$average}です。";
 ?>
